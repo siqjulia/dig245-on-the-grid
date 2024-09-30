@@ -3,15 +3,13 @@
 }
 
 
-.closeup{
-    height: 325px; 
-    width: 325px;
+.closeup{ 
+    width: 100%;
     margin: auto; 
 }
 
-.duality{
-    height:325px; 
-    width: 325px; 
+.duality{ 
+    width: 100%; 
     margin: auto;
 }
 
